@@ -1,0 +1,19 @@
+.brand{
+    font-family: "Oooh Baby", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+    margin-right: 2rem;
+}
+
+#Header > div{
+    display: flex;
+    height: 100%;
+
+}
+
+#Header > div > img{
+    object-fit: cover;
+}
