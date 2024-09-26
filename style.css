@@ -8,12 +8,23 @@
     margin-right: 2rem;
 }
 
-#Header > div{
-    display: flex;
-    height: 100%;
-
+.navbar-toggler{
+    border: transparent;
 }
 
-#Header > div > img{
-    object-fit: cover;
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/flowers.jpg);
+    background-position: center; 
+    background-size: cover;
+}
+
+h1{
+    font-family: "Oooh Baby", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4REM;
+    margin-bottom: 2rem;
+
 }
