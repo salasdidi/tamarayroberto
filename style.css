@@ -31,7 +31,7 @@ h1{
 
 .info{
     display: flex;
-    height: 50vh;
+    height: 70vh;
     gap: 1rem;
     flex-wrap: wrap;
     text-align: center;
