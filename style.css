@@ -50,3 +50,7 @@ h1{
     font-family:  "Oooh Baby", cursive;
     font-size: 2rem;
 }
+
+.info>div>img{
+    width: 35px;
+}
